@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=HELLO%2C+WORLD!;ASPIRING+IT+PROFESSIONAL;WELCOME+TO+MY+GITHUB+PROFILE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=HELLO%2C+WORLD!;ASPIRING+IT+PROFESSIONAL;MAMAW+MAG+MAHAL" />
 
 > SYSTEM INITIALIZED...
 
