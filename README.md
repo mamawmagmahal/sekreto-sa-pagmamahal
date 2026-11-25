@@ -13,6 +13,7 @@ Aspiring IT Professional | Future Developer | Tech Enthusiast
 </div>
 
 👨‍💻 ABOUT ME
+
 > Name: Sherwin Kent D. Sanchez
 > Field: Information Technology
 > Hobby: Playing games especially league of legends
@@ -52,9 +53,7 @@ Become a skilled IT professional
 
 <div align="center">
 
-"THE FUTURE IS BUILT WITH CODE."
-
-01001000 01000101 01001100 01001100 01001111
+"THE FUTURE STARTS WITH ME."
 
 ⚡ Code • Learn • Innovate • Repeat ⚡
 
