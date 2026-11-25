@@ -13,13 +13,11 @@ Aspiring IT Professional | Future Developer | Tech Enthusiast
 </div>
 
 👨‍💻 ABOUT ME
-bash
-> Loading user profile...
-> Name: Aspiring IT Professional
+> Name: Sherwin Kent D. Sanchez
 > Field: Information Technology
-> Status: Learning & Developing
+> Hobby: Playing games especially league of legends
 > Mission: Become a Successful IT Professional
-> Current Mode: Never Stop Learning
+> Current Mode: Never Stop Learning and Gaming
 
 💻 Passionate about technology and computers
 🌐 Interested in programming and web development
@@ -36,10 +34,10 @@ bash
 
 🎯 CURRENT OBJECTIVES
 Improve my programming skills
-Learn web development
 Explore different programming languages
 Create personal projects
 Become a skilled IT professional
+
 📊 GITHUB STATISTICS
 
 <div align="center">
